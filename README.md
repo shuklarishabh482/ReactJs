@@ -1,2 +1,2 @@
 # ReactJs
-This  repository is related to reactjs 
+This  repository is related to react.js . This repository contains some other topics information
